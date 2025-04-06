@@ -19,7 +19,7 @@ AI language models like GPT can sometimes be **manipulated** through carefully c
 ## Contents
 
 - **README.md**: You are currently viewing it.  
-- **PromptInjectionExample.md**: Shows the exact prompt injection text, model responses, and commentary.
+- **Prompt Injection Study.md**: Shows the exact prompt injection text, model responses, and commentary.
 
 ## Usage Notes
 
