@@ -14,7 +14,7 @@ This repository demonstrates a past **prompt injection** scenario where a GPT-ba
 
 AI language models like GPT can sometimes be **manipulated** through carefully crafted prompts (known as prompt injection). In this project, you’ll find:
 - A **README** describing the context of the attack and ethical considerations.
-- A **PromptInjectionExample.md** file with detailed logs of the prompt and responses.
+- A **Prompt Injection Study.md** file with detailed logs of the prompt and responses.
 
 ## Contents
 
